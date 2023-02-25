@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello visitor 👋
 
+My name is Orlando Napoli, I am 26 and i live in the sweetest place in the world!
+
+I'm a proud work-from-home backend dev with 3 years of experience in the magic Node.js.
+
+I olso have some experiences with Java and PHP, but currently i just want to continue to push on JS (❤️) and TS (💛).
+
+You can reach and conctact me on [linkedin](https://www.linkedin.com/in/orlando-napoli-173600177/) and mail (onapoli1996@gmail.com).
 <!--
 **onapoli96/onapoli96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
