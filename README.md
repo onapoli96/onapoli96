@@ -1,21 +1,24 @@
 ### Hello visitor 👋
 
-My name is Orlando Napoli, I am 29 and i live in the sweetest place in the world!
+My name is Orlando Napoli, I'm a backend developer and I live in the sweetest place in the world!
 
-I'm a proud work-from-home backend dev with 4 years of experience in the magic Node.js. 
+I started out in **Node.js** and these days I spend most of my time in **Python**, building AI products end to end — from the database schema up to the React app sitting on top of it.
 
-You can reach and conctact me on [linkedin](https://www.linkedin.com/in/orlando-napoli-173600177/) and mail (onapoli1996@gmail.com).
-<!--
-**onapoli96/onapoli96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech I work with daily
 
-Here are some ideas to get you started:
+- **Backend** — Python 3.12, FastAPI, SQLAlchemy, Celery, Node.js
+- **Frontend** — React 19, Vite
+- **Data** — PostgreSQL, Redis, Qdrant (vector search), Alembic
+- **AI / LLM** — Anthropic Claude, OpenAI, Perplexity, Cohere, Voyage AI, Azure AI Foundry, Langfuse for observability
+- **Cloud & DevOps** — Azure (Web Apps, Static Web Apps, Blob Storage), AWS (S3, SSM), Docker, GitHub Actions
+- **Integrations** — Stripe subscriptions & webhooks, OAuth 2.0 / Microsoft 365, OneDrive webhooks, JWT auth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask me about
+
+RAG and vector databases, orchestrating multiple LLM providers behind one API, Stripe subscription flows and upgrade edge cases, async pipelines with Celery, or how to keep a multi-app Python + React monorepo sane.
+
+### 📫 Where to find me
+
+🏡 Proud full-time remote worker.
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/orlando-napoli-173600177/) or by mail at [onapoli1996@gmail.com](mailto:onapoli1996@gmail.com).
